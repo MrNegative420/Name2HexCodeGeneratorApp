@@ -56,8 +56,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Credits
 
-- Created by: [Your Name]
-- Special thanks to: [Contributors or acknowledgments]
+- Created by: Mr Negative.
+- Special thanks to: Special thanks to: Woo for sparking the idea.
 
 ## License
 
